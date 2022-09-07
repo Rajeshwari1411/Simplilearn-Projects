@@ -1,0 +1,15 @@
+﻿using System;
+using System.IO;
+
+namespace Project_1.Student_Details
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            string path = "C:\\Project\\Project 1\\Student Details.txt";
+            string studentfile = File.ReadAllText(path);
+            Console.WriteLine(studentfile);
+        }
+    }
+}
