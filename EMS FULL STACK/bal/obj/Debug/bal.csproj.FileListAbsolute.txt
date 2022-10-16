@@ -1,0 +1,2 @@
+C:\Users\RAJESHWARI.R\source\repos\emsfullstack\bal\obj\Debug\bal.csproj.AssemblyReference.cache
+C:\Users\RAJESHWARI.R\source\repos\emsfullstack\bal\obj\Debug\bal.csproj.CoreCompileInputs.cache
