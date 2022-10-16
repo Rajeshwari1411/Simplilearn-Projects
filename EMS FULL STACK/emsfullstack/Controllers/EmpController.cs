@@ -4,11 +4,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using DAL_Lib;
-using BLL_Lib;
-using Phase3FullStackApp.Models;
+using dal;
+using bal;
+using emsfullstack.Models;
 
-namespace Phase3FullStackApp.Controllers
+namespace emp.Controllers
 {
     public class EmployeeController : ApiController
     {
